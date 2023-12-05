@@ -28,11 +28,3 @@ The analysis provides insights into the effectiveness of various drug regimens, 
 - Matplotlib: For creating static, interactive, and exploratory visualizations.
 - SciPy: For scientific and technical computing.
 
-## How to Run the Notebook
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the repository directory.
-3. Open the Jupyter Notebook: `jupyter notebook [notebook-name].ipynb`
-4. Run each cell in the notebook to reproduce the analysis.
-
-## Contributions and Feedback
-Contributions to this analysis are welcome! Please feel free to fork the repository, make changes, and submit a pull request. For feedback and queries, please open an issue in the repository.
